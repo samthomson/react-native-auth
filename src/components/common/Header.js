@@ -32,5 +32,4 @@ const styles = {
 };
 
 // expose component
-export default Header
-;
+export { Header }
